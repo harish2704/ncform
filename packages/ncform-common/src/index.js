@@ -16,6 +16,6 @@ const exportObj = {
     }
   }
 };
-
-export default exportObj;
 module.exports = exportObj;
+export const mixins = exportObj.mixins;
+export {ncformUtils,ValidationRule };

@@ -592,5 +592,4 @@ const ncformUtils = {
   }
 };
 
-export default ncformUtils;
 module.exports = ncformUtils;

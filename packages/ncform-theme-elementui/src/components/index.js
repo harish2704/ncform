@@ -42,5 +42,4 @@ const components = {
   // Don't touch me - export layouts
 };
 
-export default components;
 module.exports = components;
