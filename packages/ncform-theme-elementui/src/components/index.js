@@ -4,7 +4,7 @@ import checkbox from "./control-comps/checkbox.vue";
 import upload from "./control-comps/upload.vue";
 import inputNumber from "./control-comps/input-number.vue";
 import textarea from "./control-comps/textarea.vue";
-import select from "./control-comps/select.vue";
+import select from "./control-comps/select2.vue";
 import colorPicker from "./control-comps/color-picker.vue";
 import datePicker from "./control-comps/date-picker.vue";
 import slider from "./control-comps/slider.vue";
