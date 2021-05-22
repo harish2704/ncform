@@ -18,6 +18,7 @@
     :on-error="handleUploadError"
     :on-exceed="handleUploadExceed"
     :on-remove="handleUploadRemove"
+    :before-upload="config.beforeUpload"
     :file-list="fileList"
     :name="mergeConfig.fileField"
     :headers="mergeConfig.headers"
